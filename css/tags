@@ -1,0 +1,890 @@
+a	_	0;"	s	inherits:pseudo-class,pseudo-element
+abbr	_	0;"	s	inherits:pseudo-class,pseudo-element
+acronym	_	0;"	s	inherits:pseudo-class,pseudo-element
+address	_	0;"	s	inherits:pseudo-class,pseudo-element
+area	_	0;"	s	inherits:pseudo-class,pseudo-element
+b	_	0;"	s	inherits:pseudo-class,pseudo-element
+base	_	0;"	s	inherits:pseudo-class,pseudo-element
+big	_	0;"	s	inherits:pseudo-class,pseudo-element
+blockquote	_	0;"	s	inherits:pseudo-class,pseudo-element
+body	_	0;"	s	inherits:pseudo-class,pseudo-element
+br	_	0;"	s	inherits:pseudo-class,pseudo-element
+button	_	0;"	s	inherits:pseudo-class,pseudo-element
+caption	_	0;"	s	inherits:pseudo-class,pseudo-element
+cite	_	0;"	s	inherits:pseudo-class,pseudo-element
+code	_	0;"	s	inherits:pseudo-class,pseudo-element
+col	_	0;"	s	inherits:pseudo-class,pseudo-element
+colgroup	_	0;"	s	inherits:pseudo-class,pseudo-element
+dd	_	0;"	s	inherits:pseudo-class,pseudo-element
+del	_	0;"	s	inherits:pseudo-class,pseudo-element
+dfn	_	0;"	s	inherits:pseudo-class,pseudo-element
+div	_	0;"	s	inherits:pseudo-class,pseudo-element
+dl	_	0;"	s	inherits:pseudo-class,pseudo-element
+dt	_	0;"	s	inherits:pseudo-class,pseudo-element
+em	_	0;"	s	inherits:pseudo-class,pseudo-element
+fieldset	_	0;"	s	inherits:pseudo-class,pseudo-element
+form	_	0;"	s	inherits:pseudo-class,pseudo-element
+frame	_	0;"	s	inherits:pseudo-class,pseudo-element
+frameset	_	0;"	s	inherits:pseudo-class,pseudo-element
+h1	_	0;"	s	inherits:pseudo-class,pseudo-element
+h2	_	0;"	s	inherits:pseudo-class,pseudo-element
+h3	_	0;"	s	inherits:pseudo-class,pseudo-element
+h4	_	0;"	s	inherits:pseudo-class,pseudo-element
+h5	_	0;"	s	inherits:pseudo-class,pseudo-element
+h6	_	0;"	s	inherits:pseudo-class,pseudo-element
+head	_	0;"	s	inherits:pseudo-class,pseudo-element
+hr	_	0;"	s	inherits:pseudo-class,pseudo-element
+html	_	0;"	s	inherits:pseudo-class,pseudo-element
+i	_	0;"	s	inherits:pseudo-class,pseudo-element
+iframe	_	0;"	s	inherits:pseudo-class,pseudo-element
+img	_	0;"	s	inherits:pseudo-class,pseudo-element
+input	_	0;"	s	inherits:pseudo-class,pseudo-element
+ins	_	0;"	s	inherits:pseudo-class,pseudo-element
+kbd	_	0;"	s	inherits:pseudo-class,pseudo-element
+label	_	0;"	s	inherits:pseudo-class,pseudo-element
+legend	_	0;"	s	inherits:pseudo-class,pseudo-element
+li	_	0;"	s	inherits:pseudo-class,pseudo-element
+link	_	0;"	s	inherits:pseudo-class,pseudo-element
+map	_	0;"	s	inherits:pseudo-class,pseudo-element
+meta	_	0;"	s	inherits:pseudo-class,pseudo-element
+noframes	_	0;"	s	inherits:pseudo-class,pseudo-element
+noscript	_	0;"	s	inherits:pseudo-class,pseudo-element
+object	_	0;"	s	inherits:pseudo-class,pseudo-element
+ol	_	0;"	s	inherits:pseudo-class,pseudo-element
+optgroup	_	0;"	s	inherits:pseudo-class,pseudo-element
+option	_	0;"	s	inherits:pseudo-class,pseudo-element
+p	_	0;"	s	inherits:pseudo-class,pseudo-element
+param	_	0;"	s	inherits:pseudo-class,pseudo-element
+pre	_	0;"	s	inherits:pseudo-class,pseudo-element
+q	_	0;"	s	inherits:pseudo-class,pseudo-element
+samp	_	0;"	s	inherits:pseudo-class,pseudo-element
+script	_	0;"	s	inherits:pseudo-class,pseudo-element
+select	_	0;"	s	inherits:pseudo-class,pseudo-element
+small	_	0;"	s	inherits:pseudo-class,pseudo-element
+span	_	0;"	s	inherits:pseudo-class,pseudo-element
+strike	_	0;"	s	inherits:pseudo-class,pseudo-element
+strong	_	0;"	s	inherits:pseudo-class,pseudo-element
+style	_	0;"	s	inherits:pseudo-class,pseudo-element
+sub	_	0;"	s	inherits:pseudo-class,pseudo-element
+sup	_	0;"	s	inherits:pseudo-class,pseudo-element
+table	_	0;"	s	inherits:pseudo-class,pseudo-element
+tbody	_	0;"	s	inherits:pseudo-class,pseudo-element
+td	_	0;"	s	inherits:pseudo-class,pseudo-element
+textarea	_	0;"	s	inherits:pseudo-class,pseudo-element
+tfoot	_	0;"	s	inherits:pseudo-class,pseudo-element
+th	_	0;"	s	inherits:pseudo-class,pseudo-element
+thead	_	0;"	s	inherits:pseudo-class,pseudo-element
+title	_	0;"	s	inherits:pseudo-class,pseudo-element
+tr	_	0;"	s	inherits:pseudo-class,pseudo-element
+tt	_	0;"	s	inherits:pseudo-class,pseudo-element
+ul	_	0;"	s	inherits:pseudo-class,pseudo-element
+var	_	0;"	s	inherits:pseudo-class,pseudo-element
+a	_	0;"	v	class:selector
+abbr	_	0;"	v	class:selector
+acronym	_	0;"	v	class:selector
+address	_	0;"	v	class:selector
+area	_	0;"	v	class:selector
+b	_	0;"	v	class:selector
+base	_	0;"	v	class:selector
+big	_	0;"	v	class:selector
+blockquote	_	0;"	v	class:selector
+body	_	0;"	v	class:selector
+br	_	0;"	v	class:selector
+button	_	0;"	v	class:selector
+caption	_	0;"	v	class:selector
+cite	_	0;"	v	class:selector
+code	_	0;"	v	class:selector
+col	_	0;"	v	class:selector
+colgroup	_	0;"	v	class:selector
+dd	_	0;"	v	class:selector
+del	_	0;"	v	class:selector
+dfn	_	0;"	v	class:selector
+div	_	0;"	v	class:selector
+dl	_	0;"	v	class:selector
+dt	_	0;"	v	class:selector
+em	_	0;"	v	class:selector
+fieldset	_	0;"	v	class:selector
+form	_	0;"	v	class:selector
+frame	_	0;"	v	class:selector
+frameset	_	0;"	v	class:selector
+h1	_	0;"	v	class:selector
+h2	_	0;"	v	class:selector
+h3	_	0;"	v	class:selector
+h4	_	0;"	v	class:selector
+h5	_	0;"	v	class:selector
+h6	_	0;"	v	class:selector
+head	_	0;"	v	class:selector
+hr	_	0;"	v	class:selector
+html	_	0;"	v	class:selector
+i	_	0;"	v	class:selector
+iframe	_	0;"	v	class:selector
+img	_	0;"	v	class:selector
+input	_	0;"	v	class:selector
+ins	_	0;"	v	class:selector
+kbd	_	0;"	v	class:selector
+label	_	0;"	v	class:selector
+legend	_	0;"	v	class:selector
+li	_	0;"	v	class:selector
+link	_	0;"	v	class:selector
+map	_	0;"	v	class:selector
+meta	_	0;"	v	class:selector
+noframes	_	0;"	v	class:selector
+noscript	_	0;"	v	class:selector
+object	_	0;"	v	class:selector
+ol	_	0;"	v	class:selector
+optgroup	_	0;"	v	class:selector
+option	_	0;"	v	class:selector
+p	_	0;"	v	class:selector
+param	_	0;"	v	class:selector
+pre	_	0;"	v	class:selector
+q	_	0;"	v	class:selector
+samp	_	0;"	v	class:selector
+script	_	0;"	v	class:selector
+select	_	0;"	v	class:selector
+small	_	0;"	v	class:selector
+span	_	0;"	v	class:selector
+strike	_	0;"	v	class:selector
+strong	_	0;"	v	class:selector
+style	_	0;"	v	class:selector
+sub	_	0;"	v	class:selector
+sup	_	0;"	v	class:selector
+table	_	0;"	v	class:selector
+tbody	_	0;"	v	class:selector
+td	_	0;"	v	class:selector
+textarea	_	0;"	v	class:selector
+tfoot	_	0;"	v	class:selector
+th	_	0;"	v	class:selector
+thead	_	0;"	v	class:selector
+title	_	0;"	v	class:selector
+tr	_	0;"	v	class:selector
+tt	_	0;"	v	class:selector
+ul	_	0;"	v	class:selector
+var	_	0;"	v	class:selector
+-moz-border-radius	_	0;"	p
+azimuth	_	0;"	p
+background	_	0;"	p	inherits:background-color,background-image,background-repeat,background-attachment,background-position
+background-attachment	_	0;"	p
+background-color	_	0;"	p	inherits:color-name
+background-image	_	0;"	p
+background-position	_	0;"	p
+background-repeat	_	0;"	p
+border	_	0;"	p	inherits:border-width,border-style,border-color
+border-bottom	_	0;"	p	inherits:border-bottom-width,border-bottom-style,border-bottom-color
+border-bottom-color	_	0;"	p	inherits:border-color
+border-bottom-style	_	0;"	p	inherits:border-style
+border-bottom-width	_	0;"	p	inherits:border-width
+border-collapse	_	0;"	p
+border-color	_	0;"	p	inherits:color-name
+border-left	_	0;"	p	inherits:border-left-width,border-left-style,border-left-color
+border-left-color	_	0;"	p	inherits:border-color
+border-left-style	_	0;"	p	inherits:border-style
+border-left-width	_	0;"	p	inherits:border-width
+border-right	_	0;"	p	inherits:border-right-width,border-right-style,border-right,color
+border-right-color	_	0;"	p	inherits:border-color
+border-right-style	_	0;"	p	inherits:border-style
+border-right-width	_	0;"	p	inherits:border-width
+border-spacing	_	0;"	p
+border-style	_	0;"	p
+border-top	_	0;"	p	inherits:border-top-width,border-top-style,border-top-color
+border-top-color	_	0;"	p	inherits:border-color
+border-top-style	_	0;"	p	inherits:border-style
+border-top-width	_	0;"	p	inherits:border-width
+border-width	_	0;"	p
+bottom	_	0;"	p
+caption-side	_	0;"	p
+clear	_	0;"	p
+clip	_	0;"	p
+color	_	0;"	p	inherits:color-name
+content	_	0;"	p
+counter-increment	_	0;"	p
+counter-reset	_	0;"	p
+cue	_	0;"	p
+cue-after	_	0;"	p
+cue-before	_	0;"	p
+cursor	_	0;"	p
+direction	_	0;"	p
+display	_	0;"	p
+elevation	_	0;"	p
+empty-cells	_	0;"	p
+float	_	0;"	p
+font	_	0;"	p	inherits:font-style,font-variant,font-weight,font-size,line-height,font-family
+font-family	_	0;"	p
+font-size	_	0;"	p
+font-size-adjust	_	0;"	p
+font-stretch	_	0;"	p
+font-style	_	0;"	p
+font-variant	_	0;"	p
+font-weight	_	0;"	p
+height	_	0;"	p
+left	_	0;"	p
+letter	_	0;"	p
+letter-spacing	_	0;"	p
+line-height	_	0;"	p
+list	_	0;"	p
+list-style	_	0;"	p	inherits:list-style-type,list-style-position,list-style-image
+list-style-image	_	0;"	p
+list-style-position	_	0;"	p
+list-style-type	_	0;"	p
+margin	_	0;"	p	inherits:margin-top,margin-right,margin-bottom,margin-left
+margin-bottom	_	0;"	p
+margin-left	_	0;"	p
+margin-right	_	0;"	p
+margin-top	_	0;"	p
+marker	_	0;"	p
+marker-offset	_	0;"	p
+marks	_	0;"	p
+max-height	_	0;"	p
+max-width	_	0;"	p
+min-height	_	0;"	p
+min-width	_	0;"	p
+opacity	_	0;"	p
+orphans	_	0;"	p
+outline	_	0;"	p	inherits:outline-color,outline-style,outline-width
+outline-color	_	0;"	p	inherits:color-name
+outline-style	_	0;"	p
+outline-width	_	0;"	p
+overflow	_	0;"	p
+padding	_	0;"	p	inherits:padding-top,padding-right,padding-bottom,padding-left
+padding-bottom	_	0;"	p
+padding-left	_	0;"	p
+padding-right	_	0;"	p
+padding-top	_	0;"	p
+page	_	0;"	p
+page-break-after	_	0;"	p
+page-break-before	_	0;"	p
+page-break-inside	_	0;"	p
+pause	_	0;"	p
+pause-after	_	0;"	p
+pause-before	_	0;"	p
+pitch	_	0;"	p
+pitch-range	_	0;"	p
+play-during	_	0;"	p
+position	_	0;"	p
+quotes	_	0;"	p
+richness	_	0;"	p
+right	_	0;"	p
+scrollbar	_	0;"	p
+size	_	0;"	p
+speak	_	0;"	p
+speak-header	_	0;"	p
+speak-numeral	_	0;"	p
+speak-punctuation	_	0;"	p
+speech-rate	_	0;"	p
+stress	_	0;"	p
+table-layout	_	0;"	p
+text	_	0;"	p
+text-align	_	0;"	p
+text-decoration	_	0;"	p
+text-indent	_	0;"	p
+text-shadow	_	0;"	p
+text-transform	_	0;"	p
+top	_	0;"	p
+unicode-bidi	_	0;"	p
+vertical	_	0;"	p
+vertical-align	_	0;"	p
+visibility	_	0;"	p
+voice-family	_	0;"	p
+volume	_	0;"	p
+white	_	0;"	p
+white-space	_	0;"	p
+widows	_	0;"	p
+width	_	0;"	p
+word	_	0;"	p
+word-spacing	_	0;"	p
+z-index	_	0;"	p
+-moz-border-radius	_	0;"	v	class:property
+azimuth	_	0;"	v	class:property
+background	_	0;"	v	class:property
+background-attachment	_	0;"	v	class:property
+background-color	_	0;"	v	class:property
+background-image	_	0;"	v	class:property
+background-position	_	0;"	v	class:property
+background-repeat	_	0;"	v	class:property
+border	_	0;"	v	class:property
+border-bottom	_	0;"	v	class:property
+border-bottom-color	_	0;"	v	class:property
+border-bottom-style	_	0;"	v	class:property
+border-bottom-width	_	0;"	v	class:property
+border-collapse	_	0;"	v	class:property
+border-color	_	0;"	v	class:property
+border-left	_	0;"	v	class:property
+border-left-color	_	0;"	v	class:property
+border-left-style	_	0;"	v	class:property
+border-left-width	_	0;"	v	class:property
+border-right	_	0;"	v	class:property
+border-right-color	_	0;"	v	class:property
+border-right-style	_	0;"	v	class:property
+border-right-width	_	0;"	v	class:property
+border-spacing	_	0;"	v	class:property
+border-style	_	0;"	v	class:property
+border-top	_	0;"	v	class:property
+border-top-color	_	0;"	v	class:property
+border-top-style	_	0;"	v	class:property
+border-top-width	_	0;"	v	class:property
+border-width	_	0;"	v	class:property
+bottom	_	0;"	v	class:property
+caption-side	_	0;"	v	class:property
+clear	_	0;"	v	class:property
+clip	_	0;"	v	class:property
+color	_	0;"	v	class:property
+content	_	0;"	v	class:property
+counter-increment	_	0;"	v	class:property
+counter-reset	_	0;"	v	class:property
+cue	_	0;"	v	class:property
+cue-after	_	0;"	v	class:property
+cue-before	_	0;"	v	class:property
+cursor	_	0;"	v	class:property
+direction	_	0;"	v	class:property
+display	_	0;"	v	class:property
+elevation	_	0;"	v	class:property
+empty-cells	_	0;"	v	class:property
+float	_	0;"	v	class:property
+font	_	0;"	v	class:property
+font-family	_	0;"	v	class:property
+font-size	_	0;"	v	class:property
+font-size-adjust	_	0;"	v	class:property
+font-stretch	_	0;"	v	class:property
+font-style	_	0;"	v	class:property
+font-variant	_	0;"	v	class:property
+font-weight	_	0;"	v	class:property
+height	_	0;"	v	class:property
+left	_	0;"	v	class:property
+letter	_	0;"	v	class:property
+letter-spacing	_	0;"	v	class:property
+line-height	_	0;"	v	class:property
+list	_	0;"	v	class:property
+list-style	_	0;"	v	class:property
+list-style-image	_	0;"	v	class:property
+list-style-position	_	0;"	v	class:property
+list-style-type	_	0;"	v	class:property
+margin	_	0;"	v	class:property
+margin-bottom	_	0;"	v	class:property
+margin-left	_	0;"	v	class:property
+margin-right	_	0;"	v	class:property
+margin-top	_	0;"	v	class:property
+marker	_	0;"	v	class:property
+marker-offset	_	0;"	v	class:property
+marks	_	0;"	v	class:property
+max-height	_	0;"	v	class:property
+max-width	_	0;"	v	class:property
+min-height	_	0;"	v	class:property
+min-width	_	0;"	v	class:property
+opacity	_	0;"	v	class:property
+orphans	_	0;"	v	class:property
+outline	_	0;"	v	class:property
+outline-color	_	0;"	v	class:property
+outline-style	_	0;"	v	class:property
+outline-width	_	0;"	v	class:property
+overflow	_	0;"	v	class:property
+padding	_	0;"	v	class:property
+padding-bottom	_	0;"	v	class:property
+padding-left	_	0;"	v	class:property
+padding-right	_	0;"	v	class:property
+padding-top	_	0;"	v	class:property
+page	_	0;"	v	class:property
+page-break-after	_	0;"	v	class:property
+page-break-before	_	0;"	v	class:property
+page-break-inside	_	0;"	v	class:property
+pause	_	0;"	v	class:property
+pause-after	_	0;"	v	class:property
+pause-before	_	0;"	v	class:property
+pitch	_	0;"	v	class:property
+pitch-range	_	0;"	v	class:property
+play-during	_	0;"	v	class:property
+position	_	0;"	v	class:property
+quotes	_	0;"	v	class:property
+richness	_	0;"	v	class:property
+right	_	0;"	v	class:property
+scrollbar	_	0;"	v	class:property
+size	_	0;"	v	class:property
+speak	_	0;"	v	class:property
+speak-header	_	0;"	v	class:property
+speak-numeral	_	0;"	v	class:property
+speak-punctuation	_	0;"	v	class:property
+speech-rate	_	0;"	v	class:property
+stress	_	0;"	v	class:property
+table-layout	_	0;"	v	class:property
+text	_	0;"	v	class:property
+text-align	_	0;"	v	class:property
+text-decoration	_	0;"	v	class:property
+text-indent	_	0;"	v	class:property
+text-shadow	_	0;"	v	class:property
+text-transform	_	0;"	v	class:property
+top	_	0;"	v	class:property
+unicode-bidi	_	0;"	v	class:property
+vertical	_	0;"	v	class:property
+vertical-align	_	0;"	v	class:property
+visibility	_	0;"	v	class:property
+voice-family	_	0;"	v	class:property
+volume	_	0;"	v	class:property
+white	_	0;"	v	class:property
+white-space	_	0;"	v	class:property
+widows	_	0;"	v	class:property
+width	_	0;"	v	class:property
+word	_	0;"	v	class:property
+word-spacing	_	0;"	v	class:property
+z-index	_	0;"	v	class:property
+inherit	_	0;"	v	class:background
+scroll	_	0;"	v	class:background-attachment
+fixed	_	0;"	v	class:background-attachment
+inherit	_	0;"	v	class:background-attachment
+transparent	_	0;"	v	class:background-color
+inherit	_	0;"	v	class:background-color
+url	_	0;"	v	class:background-image
+none	_	0;"	v	class:background-image
+inherit	_	0;"	v	class:background-image
+left	_	0;"	v	class:background-position
+top	_	0;"	v	class:background-position
+center	_	0;"	v	class:background-position
+bottom	_	0;"	v	class:background-position
+right	_	0;"	v	class:background-position
+inherit	_	0;"	v	class:background-position
+repeat	_	0;"	v	class:background-repeat
+repeat-x	_	0;"	v	class:background-repeat
+repeat-y	_	0;"	v	class:background-repeat
+no-repeat	_	0;"	v	class:background-repeat
+inherit	_	0;"	v	class:background-repeat
+ltr	_	0;"	v	class:direction
+rtl	_	0;"	v	class:direction
+inherit	_	0;"	v	class:direction
+none	_	0;"	v	class:display
+block	_	0;"	v	class:display
+inline	_	0;"	v	class:display
+inline-block	_	0;"	v	class:display
+inline-table	_	0;"	v	class:display
+list-item	_	0;"	v	class:display
+run-in	_	0;"	v	class:display
+table	_	0;"	v	class:display
+table-caption	_	0;"	v	class:display
+table-cell	_	0;"	v	class:display
+table-column	_	0;"	v	class:display
+table-column-group	_	0;"	v	class:display
+table-footer-group	_	0;"	v	class:display
+table-header-group	_	0;"	v	class:display
+table-row	_	0;"	v	class:display
+table-row-group	_	0;"	v	class:display
+inherit	_	0;"	v	class:display
+hide	_	0;"	v	class:empty-cells
+show	_	0;"	v	class:empty-cells
+inherit	_	0;"	v	class:empty-cells
+normal	_	0;"	v	class:line-height
+inherit	_	0;"	v	class:line-height
+normal	_	0;"	v	class:letter-spacing
+inherit	_	0;"	v	class:letter-spacing
+left	_	0;"	v	class:text-align
+right	_	0;"	v	class:text-align
+center	_	0;"	v	class:text-align
+justify	_	0;"	v	class:text-align
+inherit	_	0;"	v	class:text-align
+none	_	0;"	v	class:text-decoration
+underline	_	0;"	v	class:text-decoration
+overline	_	0;"	v	class:text-decoration
+line-through	_	0;"	v	class:text-decoration
+blink	_	0;"	v	class:text-decoration
+inherit	_	0;"	v	class:text-decoration
+inherit	_	0;"	v	class:text-indent
+none	_	0;"	v	class:text-shadow
+inherit	_	0;"	v	class:text-shadow
+none	_	0;"	v	class:text-transform
+capitalize	_	0;"	v	class:text-transform
+uppercase	_	0;"	v	class:text-transform
+lowercase	_	0;"	v	class:text-transform
+inherit	_	0;"	v	class:text-transform
+normal	_	0;"	v	class:unicode-bidi
+embed	_	0;"	v	class:unicode-bidi
+bidi-override	_	0;"	v	class:unicode-bidi
+inherit	_	0;"	v	class:unicode-bidi
+baseline	_	0;"	v	class:vertical-align
+sub	_	0;"	v	class:vertical-align
+super	_	0;"	v	class:vertical-align
+top	_	0;"	v	class:vertical-align
+text-top	_	0;"	v	class:vertical-align
+middle	_	0;"	v	class:vertical-align
+bottom	_	0;"	v	class:vertical-align
+text-bottom	_	0;"	v	class:vertical-align
+inherit	_	0;"	v	class:vertical-align
+visible	_	0;"	v	class:visibility
+hidden	_	0;"	v	class:visibility
+collapse	_	0;"	v	class:visibility
+inherit	_	0;"	v	class:visibility
+normal	_	0;"	v	class:white-space
+pre	_	0;"	v	class:white-space
+nowrap	_	0;"	v	class:white-space
+inherit	_	0;"	v	class:white-space
+normal	_	0;"	v	class:word-spacing
+inherit	_	0;"	v	class:word-spacing
+caption	_	0;"	v	class:font
+icon	_	0;"	v	class:font
+menu	_	0;"	v	class:font
+message-box	_	0;"	v	class:font
+small-caption	_	0;"	v	class:font
+status-bar	_	0;"	v	class:font
+inherit	_	0;"	v	class:font
+inherit	_	0;"	v	class:font-family
+xx-small	_	0;"	v	class:font-size
+x-small	_	0;"	v	class:font-size
+small	_	0;"	v	class:font-size
+medium	_	0;"	v	class:font-size
+large	_	0;"	v	class:font-size
+x-large	_	0;"	v	class:font-size
+xx-large	_	0;"	v	class:font-size
+smaller	_	0;"	v	class:font-size
+larger	_	0;"	v	class:font-size
+inherit	_	0;"	v	class:font-size
+normal	_	0;"	v	class:font-style
+italic_	0;"	v	class:font-style
+oblique	_	0;"	v	class:font-style
+inherit	_	0;"	v	class:font-style
+normal	_	0;"	v	class:font-variant
+small-caps_	0;"	v	class:font-variant
+inherit	_	0;"	v	class:font-variant
+normal	_	0;"	v	class:font-weight
+bold_	0;"	v	class:font-weight
+bolder	_	0;"	v	class:font-weight
+lighter	_	0;"	v	class:font-weight
+100	_	0;"	v	class:font-weight
+200	_	0;"	v	class:font-weight
+300	_	0;"	v	class:font-weight
+400	_	0;"	v	class:font-weight
+500	_	0;"	v	class:font-weight
+600	_	0;"	v	class:font-weight
+700	_	0;"	v	class:font-weight
+800	_	0;"	v	class:font-weight
+900	_	0;"	v	class:font-weight
+inherit	_	0;"	v	class:font-weight
+inherit	_	0;"	v	class:list-style
+URL	_	0;"	v	class:list-style-image
+none	_	0;"	v	class:list-style-image
+inherit	_	0;"	v	class:list-style-image
+inside	_	0;"	v	class:list-style-position
+outside	_	0;"	v	class:list-style-position
+inherit	_	0;"	v	class:list-style-position
+none	_	0;"	v	class:list-style-type
+disc	_	0;"	v	class:list-style-type
+circle	_	0;"	v	class:list-style-type
+square	_	0;"	v	class:list-style-type
+decimal	_	0;"	v	class:list-style-type
+decimal-leading-zero	_	0;"	v	class:list-style-type
+armenian	_	0;"	v	class:list-style-type
+georgian	_	0;"	v	class:list-style-type
+lower-alpha	_	0;"	v	class:list-style-type
+lower-greek	_	0;"	v	class:list-style-type
+lower-latin	_	0;"	v	class:list-style-type
+upper-latin	_	0;"	v	class:list-style-type
+lower-roman	_	0;"	v	class:list-style-type
+upper-roman	_	0;"	v	class:list-style-type
+inherit	_	0;"	v	class:list-style-type
+transparent	_	0;"	v	class:border-color
+inherit	_	0;"	v	class:border-color
+collapse	_	0;"	v	class:border-collapse
+separate	_	0;"	v	class:border-collapse
+inherit	_	0;"	v	class:border-collapse
+inherit	_	0;"	v	class:border-spacing
+none	_	0;"	v	class:border-style
+hidden	_	0;"	v	class:border-style
+dotted	_	0;"	v	class:border-style
+dashed	_	0;"	v	class:border-style
+solid	_	0;"	v	class:border-style
+double	_	0;"	v	class:border-style
+groove	_	0;"	v	class:border-style
+ridge	_	0;"	v	class:border-style
+inset	_	0;"	v	class:border-style
+outset	_	0;"	v	class:border-style
+inherit	_	0;"	v	class:border-style
+thin	_	0;"	v	class:border-width
+medium	_	0;"	v	class:border-width
+thick	_	0;"	v	class:border-width
+inherit	_	0;"	v	class:border-width
+top	_	0;"	v	class:caption-side
+bottom	_	0;"	v	class:caption-side
+inherit	_	0;"	v	class:caption-side
+inherit	_	0;"	v	class:outline
+invert	_	0;"	v	class:outline-color
+inherit	_	0;"	v	class:outline-color
+none	_	0;"	v	class:outline-style
+dotted	_	0;"	v	class:outline-style
+dashed	_	0;"	v	class:outline-style
+solid	_	0;"	v	class:outline-style
+double	_	0;"	v	class:outline-style
+groove	_	0;"	v	class:outline-style
+ridge	_	0;"	v	class:outline-style
+inset	_	0;"	v	class:outline-style
+outset	_	0;"	v	class:outline-style
+inherit	_	0;"	v	class:outline-style
+thin	_	0;"	v	class:outline-width
+medium	_	0;"	v	class:outline-width
+thick	_	0;"	v	class:outline-width
+inherit	_	0;"	v	class:outline-width
+visible	_	0;"	v	class:overflow
+hidden	_	0;"	v	class:overflow
+scroll	_	0;"	v	class:overflow
+auto	_	0;"	v	class:overflow
+inherit	_	0;"	v	class:overflow
+auto	_	0;"	v	class:page-break-after
+always	_	0;"	v	class:page-break-after
+avoid	_	0;"	v	class:page-break-after
+left	_	0;"	v	class:page-break-after
+right	_	0;"	v	class:page-break-after
+inherit	_	0;"	v	class:page-break-after
+auto	_	0;"	v	class:page-break-before
+always	_	0;"	v	class:page-break-before
+avoid	_	0;"	v	class:page-break-before
+left	_	0;"	v	class:page-break-before
+right	_	0;"	v	class:page-break-before
+inherit	_	0;"	v	class:page-break-before
+auto	_	0;"	v	class:page-break-inside
+avoid	_	0;"	v	class:page-break-inside
+inherit	_	0;"	v	class:page-break-inside
+auto	_	0;"	v	class:margin-bottom
+inherit	_	0;"	v	class:margin-bottom
+auto	_	0;"	v	class:margin-left
+inherit	_	0;"	v	class:margin-left
+auto	_	0;"	v	class:margin-right
+inherit	_	0;"	v	class:margin-right
+auto	_	0;"	v	class:margin-top
+inherit	_	0;"	v	class:margin-top
+auto	_	0;"	v	class:height
+inherit	_	0;"	v	class:height
+auto	_	0;"	v	class:max-height
+inherit	_	0;"	v	class:max-height
+auto	_	0;"	v	class:max-width
+inherit	_	0;"	v	class:max-width
+inherit	_	0;"	v	class:min-height
+inherit	_	0;"	v	class:min-width
+auto	_	0;"	v	class:width
+inherit	_	0;"	v	class:width
+auto	_	0;"	v	class:bottom
+inherit	_	0;"	v	class:bottom
+auto	_	0;"	v	class:clip
+inherit	_	0;"	v	class:clip
+none	_	0;"	v	class:content
+normal	_	0;"	v	class:content
+counter	_	0;"	v	class:content
+attr	_	0;"	v	class:content
+open-quote	_	0;"	v	class:content
+close-quote	_	0;"	v	class:content
+no-open-quote	_	0;"	v	class:content
+no-close-quote	_	0;"	v	class:content
+url	_	0;"	v	class:content
+inherit	_	0;"	v	class:content
+none	_	0;"	v	class:counter-increment
+inherit	_	0;"	v	class:counter-increment
+none	_	0;"	v	class:counter-reset
+inherit	_	0;"	v	class:counter-reset
+auto	_	0;"	v	class:cursor
+crosshair	_	0;"	v	class:cursor
+default	_	0;"	v	class:cursor
+pointer	_	0;"	v	class:cursor
+move	_	0;"	v	class:cursor
+e-resize	_	0;"	v	class:cursor
+ne-resize	_	0;"	v	class:cursor
+nw-resize	_	0;"	v	class:cursor
+n-resize	_	0;"	v	class:cursor
+se-resize	_	0;"	v	class:cursor
+sw-resize	_	0;"	v	class:cursor
+s-resize	_	0;"	v	class:cursor
+w-resize	_	0;"	v	class:cursor
+text	_	0;"	v	class:cursor
+wait	_	0;"	v	class:cursor
+help	_	0;"	v	class:cursor
+inherit	_	0;"	v	class:cursor
+auto	_	0;"	v	class:left
+inherit	_	0;"	v	class:left
+auto	_	0;"	v	class:overflow
+hidden	_	0;"	v	class:overflow
+scroll	_	0;"	v	class:overflow
+visible	_	0;"	v	class:overflow
+inherit	_	0;"	v	class:overflow
+absolute	_	0;"	v	class:position
+fixed	_	0;"	v	class:position
+relative	_	0;"	v	class:position
+static	_	0;"	v	class:position
+inherit	_	0;"	v	class:position
+none	_	0:"	v	class:quotes
+inherit	_	0:"	v	class:quotes
+auto	_	0;"	v	class:right
+inherit	_	0;"	v	class:right
+auto	_	0;"	v	class:top
+inherit	_	0;"	v	class:top
+auto	_	0;"	v	class:z-index
+inherit	_	0;"	v	class:z-index
+left	_	0;"	v	class:clear
+right	_	0;"	v	class:clear
+both	_	0;"	v	class:clear
+none	_	0;"	v	class:clear
+inherit	_	0;"	v	class:clear
+left	_	0;"	v	class:float
+right	_	0;"	v	class:float
+none	_	0;"	v	class:float
+inherit	_	0;"	v	class:float
+auto	_	0;"	v	class:table-layout
+fixed	_	0;"	v	class:table-layout
+inherit	_	0;"	v	class:table-layout
+active	_	0;"	S	class:pseudo-class
+first-child	_	0;"	S	class:pseudo-class
+focus	_	0;"	S	class:pseudo-class
+hover	_	0;"	S	class:pseudo-class
+lang	_	0;"	S	class:pseudo-class
+link	_	0;"	S	class:pseudo-class
+visited	_	0;"	S	class:pseudo-class
+after	_	0;"	S	class:pseudo-element
+before	_	0;"	S	class:pseudo-element
+first-letter	_	0;"	S	class:pseudo-element
+first-line	_	0;"	S	class:pseudo-element
+all	_	0;"	m
+aural	_	0;"	m
+braille	_	0;"	m
+embossed	_	0;"	m
+handheld	_	0;"	m
+print	_	0;"	m
+projection	_	0;"	m
+screen	_	0;"	m
+tty	_	0;"	m
+tv	_	0;"	m
+aliceblue	_	0;"	c	class:color-name
+antiquewhite	_	0;"	c	class:color-name
+aqua	_	0;"	c	class:color-name
+aquamarine	_	0;"	c	class:color-name
+azure	_	0;"	c	class:color-name
+beige	_	0;"	c	class:color-name
+bisque	_	0;"	c	class:color-name
+black	_	0;"	c	class:color-name
+blanchedalmond	_	0;"	c	class:color-name
+blue	_	0;"	c	class:color-name
+blueviolet	_	0;"	c	class:color-name
+brown	_	0;"	c	class:color-name
+burlywood	_	0;"	c	class:color-name
+cadetblue	_	0;"	c	class:color-name
+chartreuse	_	0;"	c	class:color-name
+chocolate	_	0;"	c	class:color-name
+coral	_	0;"	c	class:color-name
+cornflowerblue	_	0;"	c	class:color-name
+cornsilk	_	0;"	c	class:color-name
+crimson	_	0;"	c	class:color-name
+cyan	_	0;"	c	class:color-name
+darkblue	_	0;"	c	class:color-name
+darkcyan	_	0;"	c	class:color-name
+darkgoldenrod	_	0;"	c	class:color-name
+darkgray	_	0;"	c	class:color-name
+darkgrey	_	0;"	c	class:color-name
+darkgreen	_	0;"	c	class:color-name
+darkkhaki	_	0;"	c	class:color-name
+darkmagenta	_	0;"	c	class:color-name
+darkolivegreen	_	0;"	c	class:color-name
+darkorange	_	0;"	c	class:color-name
+darkorchid	_	0;"	c	class:color-name
+darkred	_	0;"	c	class:color-name
+darksalmon	_	0;"	c	class:color-name
+darkseagreen	_	0;"	c	class:color-name
+darkslateblue	_	0;"	c	class:color-name
+darkslategray	_	0;"	c	class:color-name
+darkslategrey	_	0;"	c	class:color-name
+darkturquoise	_	0;"	c	class:color-name
+darkviolet	_	0;"	c	class:color-name
+deeppink	_	0;"	c	class:color-name
+deepskyblue	_	0;"	c	class:color-name
+dimgray	_	0;"	c	class:color-name
+dimgrey	_	0;"	c	class:color-name
+dodgerblue	_	0;"	c	class:color-name
+firebrick	_	0;"	c	class:color-name
+floralwhite	_	0;"	c	class:color-name
+forestgreen	_	0;"	c	class:color-name
+fuchsia	_	0;"	c	class:color-name
+gainsboro	_	0;"	c	class:color-name
+ghostwhite	_	0;"	c	class:color-name
+gold	_	0;"	c	class:color-name
+goldenrod	_	0;"	c	class:color-name
+gray	_	0;"	c	class:color-name
+grey	_	0;"	c	class:color-name
+green	_	0;"	c	class:color-name
+greenyellow	_	0;"	c	class:color-name
+honeydew	_	0;"	c	class:color-name
+hotpink	_	0;"	c	class:color-name
+indianred	_	0;"	c	class:color-name
+indigo	_	0;"	c	class:color-name
+ivory	_	0;"	c	class:color-name
+khaki	_	0;"	c	class:color-name
+lavender	_	0;"	c	class:color-name
+lavenderblush	_	0;"	c	class:color-name
+lawngreen	_	0;"	c	class:color-name
+lemonchiffon	_	0;"	c	class:color-name
+lightblue	_	0;"	c	class:color-name
+lightcoral	_	0;"	c	class:color-name
+lightcyan	_	0;"	c	class:color-name
+lightgoldenrodyellow	_	0;"	c	class:color-name
+lightgray	_	0;"	c	class:color-name
+lightgrey	_	0;"	c	class:color-name
+lightgreen	_	0;"	c	class:color-name
+lightpink	_	0;"	c	class:color-name
+lightsalmon	_	0;"	c	class:color-name
+lightseagreen	_	0;"	c	class:color-name
+lightskyblue	_	0;"	c	class:color-name
+lightslategray	_	0;"	c	class:color-name
+lightslategrey	_	0;"	c	class:color-name
+lightsteelblue	_	0;"	c	class:color-name
+lightyellow	_	0;"	c	class:color-name
+lime	_	0;"	c	class:color-name
+limegreen	_	0;"	c	class:color-name
+linen	_	0;"	c	class:color-name
+magenta	_	0;"	c	class:color-name
+maroon	_	0;"	c	class:color-name
+mediumaquamarine	_	0;"	c	class:color-name
+mediumblue	_	0;"	c	class:color-name
+mediumorchid	_	0;"	c	class:color-name
+mediumpurple	_	0;"	c	class:color-name
+mediumseagreen	_	0;"	c	class:color-name
+mediumslateblue	_	0;"	c	class:color-name
+mediumspringgreen	_	0;"	c	class:color-name
+mediumturquoise	_	0;"	c	class:color-name
+mediumvioletred	_	0;"	c	class:color-name
+midnightblue	_	0;"	c	class:color-name
+mintcream	_	0;"	c	class:color-name
+mistyrose	_	0;"	c	class:color-name
+moccasin	_	0;"	c	class:color-name
+navajowhite	_	0;"	c	class:color-name
+navy	_	0;"	c	class:color-name
+oldlace	_	0;"	c	class:color-name
+olive	_	0;"	c	class:color-name
+olivedrab	_	0;"	c	class:color-name
+orange	_	0;"	c	class:color-name
+orangered	_	0;"	c	class:color-name
+orchid	_	0;"	c	class:color-name
+palegoldenrod	_	0;"	c	class:color-name
+palegreen	_	0;"	c	class:color-name
+paleturquoise	_	0;"	c	class:color-name
+palevioletred	_	0;"	c	class:color-name
+papayawhip	_	0;"	c	class:color-name
+peachpuff	_	0;"	c	class:color-name
+peru	_	0;"	c	class:color-name
+pink	_	0;"	c	class:color-name
+plum	_	0;"	c	class:color-name
+powderblue	_	0;"	c	class:color-name
+purple	_	0;"	c	class:color-name
+red	_	0;"	c	class:color-name
+rosybrown	_	0;"	c	class:color-name
+royalblue	_	0;"	c	class:color-name
+saddlebrown	_	0;"	c	class:color-name
+salmon	_	0;"	c	class:color-name
+sandybrown	_	0;"	c	class:color-name
+seagreen	_	0;"	c	class:color-name
+seashell	_	0;"	c	class:color-name
+sienna	_	0;"	c	class:color-name
+silver	_	0;"	c	class:color-name
+skyblue	_	0;"	c	class:color-name
+slateblue	_	0;"	c	class:color-name
+slategray	_	0;"	c	class:color-name
+slategrey	_	0;"	c	class:color-name
+snow	_	0;"	c	class:color-name
+springgreen	_	0;"	c	class:color-name
+steelblue	_	0;"	c	class:color-name
+tan	_	0;"	c	class:color-name
+teal	_	0;"	c	class:color-name
+thistle	_	0;"	c	class:color-name
+tomato	_	0;"	c	class:color-name
+turquoise	_	0;"	c	class:color-name
+violet	_	0;"	c	class:color-name
+wheat	_	0;"	c	class:color-name
+white	_	0;"	c	class:color-name
+whitesmoke	_	0;"	c	class:color-name
+yellow	_	0;"	c	class:color-name
+yellowgreen	_	0;"	c	class:color-name
